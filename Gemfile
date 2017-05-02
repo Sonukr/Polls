@@ -38,6 +38,8 @@ gem 'jbuilder', '~> 2.5'
 #for login
 gem 'devise'
 
+gem 'omniauth-facebook'
+
 #for image
 gem 'carrierwave'
 
